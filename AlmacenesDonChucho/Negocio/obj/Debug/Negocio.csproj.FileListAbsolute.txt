@@ -1,0 +1,9 @@
+C:\Users\usuario\Desktop\AlmacenesDonChucho\AlmacenesDonChucho\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\AlmacenesDonChucho\AlmacenesDonChucho\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\AlmacenesDonChucho\AlmacenesDonChucho\Negocio\bin\Debug\Negocio.dll
+C:\Users\usuario\Desktop\AlmacenesDonChucho\AlmacenesDonChucho\Negocio\bin\Debug\Negocio.pdb
+C:\Users\usuario\Desktop\AlmacenesDonChucho\AlmacenesDonChucho\Negocio\bin\Debug\Datos.dll
+C:\Users\usuario\Desktop\AlmacenesDonChucho\AlmacenesDonChucho\Negocio\bin\Debug\Datos.pdb
+C:\Users\usuario\Desktop\AlmacenesDonChucho\AlmacenesDonChucho\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\usuario\Desktop\AlmacenesDonChucho\AlmacenesDonChucho\Negocio\obj\Debug\Negocio.dll
+C:\Users\usuario\Desktop\AlmacenesDonChucho\AlmacenesDonChucho\Negocio\obj\Debug\Negocio.pdb

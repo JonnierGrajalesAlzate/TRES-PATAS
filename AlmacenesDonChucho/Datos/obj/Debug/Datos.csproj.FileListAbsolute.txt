@@ -1,0 +1,6 @@
+C:\Users\usuario\Desktop\AlmacenesDonChucho\AlmacenesDonChucho\Datos\bin\Debug\Datos.dll
+C:\Users\usuario\Desktop\AlmacenesDonChucho\AlmacenesDonChucho\Datos\bin\Debug\Datos.pdb
+C:\Users\usuario\Desktop\AlmacenesDonChucho\AlmacenesDonChucho\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\AlmacenesDonChucho\AlmacenesDonChucho\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\AlmacenesDonChucho\AlmacenesDonChucho\Datos\obj\Debug\Datos.dll
+C:\Users\usuario\Desktop\AlmacenesDonChucho\AlmacenesDonChucho\Datos\obj\Debug\Datos.pdb
